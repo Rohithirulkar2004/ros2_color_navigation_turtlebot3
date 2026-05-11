@@ -16,3 +16,11 @@ The robot:
 - OpenCV
 - Python
 - LiDAR
+  
+## Features
+- Real-time green object detection
+- ROS2 publisher/subscriber architecture
+- OpenCV contour tracking
+- P-controller based navigation
+- LiDAR assisted stopping
+- Gazebo simulation support
