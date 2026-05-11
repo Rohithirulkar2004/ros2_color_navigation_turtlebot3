@@ -1,6 +1,5 @@
-# ros2_color_navigation_turtlebot3
-ROS2 Humble + Turtlebot3 + OpenCV project for autonomous color-based navigation in Gazebo/Ignition Gazebo using computer vision and LIDAR
 # ROS2 Color Navigation with TurtleBot3
+ROS2 Humble + Turtlebot3 + OpenCV project for autonomous color-based navigation in Gazebo/Ignition Gazebo using computer vision and LIDAR
 
 This project implements autonomous color-based navigation using TurtleBot3 in Gazebo/ Ignition Gazebo with ROS2 Humble and OpenCV.
 
